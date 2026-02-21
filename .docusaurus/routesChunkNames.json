@@ -1,102 +1,59 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/-f4a": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
   "/-5ff": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
   },
   "/-8d0": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/overview/architecture-2b4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---overview-architectured-72-f13"
+    "__comp": "17896441",
+    "content": "d72ac48e"
   },
   "/overview/how-we-differ-45a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---overview-how-we-differ-24-c-a7f"
+    "__comp": "17896441",
+    "content": "24ce2b44"
   },
   "/overview/why-crosscall-840": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---overview-why-crosscalla-86-d4e"
+    "__comp": "17896441",
+    "content": "a864fc15"
   },
   "/protocol/call-abstraction-d7e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-call-abstraction-562-cb1"
+    "__comp": "17896441",
+    "content": "562cc2a2"
   },
   "/protocol/glossary-42f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-glossary-7-da-d0c"
+    "__comp": "17896441",
+    "content": "7dadde4a"
   },
   "/protocol/solvers-be5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-solversaa-7-0d5"
+    "__comp": "17896441",
+    "content": "aa7215b9"
   },
   "/use-cases/bridging-83f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---use-cases-bridging-667-d80"
+    "__comp": "17896441",
+    "content": "66793260"
   },
   "/use-cases/crosschain-liquidity-8b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---use-cases-crosschain-liquidity-40-d-795"
+    "__comp": "17896441",
+    "content": "40df022e"
   },
   "/use-cases/native-execution-ae9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---use-cases-native-executionb-72-495"
+    "__comp": "17896441",
+    "content": "b7232495"
   },
   "/use-cases/overview-9b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---use-cases-overviewea-5-69b"
+    "__comp": "17896441",
+    "content": "ea5f5a5c"
   },
   "/-682": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---c-37-d02"
+    "__comp": "17896441",
+    "content": "c377a04b"
   }
 }

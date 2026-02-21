@@ -21,6 +21,7 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "trailingSlash": false,
   "presets": [
     [
       "classic",
@@ -43,7 +44,11 @@ export default {
       "respectPrefersColorScheme": false
     },
     "navbar": {
-      "title": "CrossCall Labs",
+      "title": "CrossCall",
+      "logo": {
+        "alt": "CrossCall Logo",
+        "src": "img/logo.svg"
+      },
       "items": [
         {
           "type": "docSidebar",
