@@ -1,0 +1,23 @@
+{
+  "id": "use-cases/crosschain-liquidity",
+  "title": "Crosschain Liquidity",
+  "description": "The Fragmentation Problem",
+  "source": "@site/docs/use-cases/crosschain-liquidity.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/crosschain-liquidity",
+  "permalink": "/use-cases/crosschain-liquidity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crosschain-liquidity",
+    "title": "Crosschain Liquidity",
+    "sidebar_label": "Crosschain Liquidity"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Native Execution",
+    "permalink": "/use-cases/native-execution"
+  }
+}

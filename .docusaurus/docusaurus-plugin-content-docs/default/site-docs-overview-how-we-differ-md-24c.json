@@ -1,0 +1,27 @@
+{
+  "id": "overview/how-we-differ",
+  "title": "How We Differ",
+  "description": "CrossCall vs. Crosschain Messaging Protocols",
+  "source": "@site/docs/overview/how-we-differ.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/how-we-differ",
+  "permalink": "/overview/how-we-differ",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-we-differ",
+    "title": "How We Differ",
+    "sidebar_label": "How We Differ"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/overview/architecture"
+  },
+  "next": {
+    "title": "Call Abstraction",
+    "permalink": "/protocol/call-abstraction"
+  }
+}

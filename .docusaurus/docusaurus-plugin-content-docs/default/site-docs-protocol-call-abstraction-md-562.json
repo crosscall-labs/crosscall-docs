@@ -1,0 +1,27 @@
+{
+  "id": "protocol/call-abstraction",
+  "title": "Call Abstraction Protocol",
+  "description": "Call Abstraction is the distilled core of CrossCall — the minimal specification that makes crosschain execution possible without bridges. Everything in the CrossCall stack is built on top of this primitive.",
+  "source": "@site/docs/protocol/call-abstraction.md",
+  "sourceDirName": "protocol",
+  "slug": "/protocol/call-abstraction",
+  "permalink": "/protocol/call-abstraction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "call-abstraction",
+    "title": "Call Abstraction Protocol",
+    "sidebar_label": "Call Abstraction"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How We Differ",
+    "permalink": "/overview/how-we-differ"
+  },
+  "next": {
+    "title": "Solvers",
+    "permalink": "/protocol/solvers"
+  }
+}

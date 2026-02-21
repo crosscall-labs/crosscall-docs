@@ -1,0 +1,27 @@
+{
+  "id": "use-cases/bridging",
+  "title": "Bridging",
+  "description": "The Problem with Bridges",
+  "source": "@site/docs/use-cases/bridging.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/bridging",
+  "permalink": "/use-cases/bridging",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "bridging",
+    "title": "Bridging",
+    "sidebar_label": "Bridging"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/use-cases/overview"
+  },
+  "next": {
+    "title": "Native Execution",
+    "permalink": "/use-cases/native-execution"
+  }
+}
