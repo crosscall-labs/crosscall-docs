@@ -7,7 +7,7 @@ const config = {
   tagline: 'Native crosschain execution. No bridges.',
   favicon: 'img/favicon.ico',
 
-  url: 'https://docs.crosscall.pro',
+  url: 'https://0xdoppo.github.io/crosscall-docs/',
   baseUrl: '/',
 
   organizationName: 'crosscall-labs',
